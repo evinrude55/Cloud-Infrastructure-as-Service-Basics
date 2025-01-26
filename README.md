@@ -8,7 +8,7 @@ Create server and deploy application on DigitalOcean
  DigitalOcean, Linux, Java, Gradle
 
 ## Project Description
-***Setup and configure a server on DigitalOcean***
+###Setup and configure a server on DigitalOcean###
  - [x] set up Droplet on DigitalOcean
  - [x] ssh keys root user
  - [x] set up of firewall my-first-droplet-firewall
