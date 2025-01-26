@@ -1,7 +1,7 @@
 # Cloud-Infrastructure-as-Service-Basics
 ## DevOps - Techworld-with-nana
 
-##Demo Project:
+## Demo Project:
 Create server and deploy application on DigitalOcean
 
 ## Technologies used: 
