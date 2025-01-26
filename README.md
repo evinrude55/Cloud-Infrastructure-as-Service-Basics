@@ -8,7 +8,7 @@ Create server and deploy application on DigitalOcean
  DigitalOcean, Linux, Java, Gradle
 
 ## Project Description
- ### Setup and configure a server on DigitalOcean -> 174.138.86.84
+ ### Setup and configure a server on DigitalOcean
  - set up of firewall my-first-droplet-firewall
 
  ### Security best practice
@@ -22,4 +22,4 @@ Create server and deploy application on DigitalOcean
  - changed ownership of jar file to user:group java:java
  - setup of firewall rules
  - run application as java
- -> 174.138.86.84:7071
+ -> x.x.x.x:7071
