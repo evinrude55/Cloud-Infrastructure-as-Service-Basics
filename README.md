@@ -1,13 +1,13 @@
 # Cloud-Infrastructure-as-Service-Basics
 ***DevOps - Techworld-with-nana***
 
+## Project Description
 ***Demo Project***
 Create server and deploy application on DigitalOcean
 
 ***Technologies used***
  DigitalOcean, Linux, Java, Gradle
-
-## Project Description
+ 
 ### Setup and configure a server on DigitalOcean ###
  - [x] set up Droplet on DigitalOcean
  - [x] ssh keys root user
