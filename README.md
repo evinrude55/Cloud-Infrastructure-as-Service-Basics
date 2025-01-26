@@ -20,11 +20,11 @@ Create server and deploy application on DigitalOcean
   - [x] ssh keys java user
  
  ### Deploy and run a Java Gradle application on Droplet 
- - [x] java deployed
- - [x] gradle deployed
+ - [x] deployed _java_
+ - [x] deplyed _gradle_
  - [x] scp of jar file to java user home/java/java-react-example.jar
  - [x] changed ownership of jar file to user:group java:java
- - [x] run application as java
- - [x] `ps aux | grep java`
+ - [x] ran application as java
+ - [x] `ps aux | grep java` to identify process ID and tcp port to open
  - [x] setup of firewall rules
  - [x] Successfully connected to https://x.x.x.x:7071
