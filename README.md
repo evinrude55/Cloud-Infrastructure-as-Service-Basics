@@ -1,25 +1,25 @@
 # Cloud-Infrastructure-as-Service-Basics
-## DevOps - Techworld-with-nana
+***DevOps - Techworld-with-nana***
 
-## Demo Project
+***Demo Project***
 Create server and deploy application on DigitalOcean
 
-## Technologies used
+***Technologies used***
  DigitalOcean, Linux, Java, Gradle
 
 ## Project Description
- ### Setup and configure a server on DigitalOcean
- - set up of firewall my-first-droplet-firewall
+***Setup and configure a server on DigitalOcean***
+ - [x] set up of firewall my-first-droplet-firewall
 
  ### Security best practice
- Create and configure a new Linux user on the Droplet
-  - created user java
+ ***Create and configure a new Linux user on the Droplet***
+  - [x] created user java
  
  ### Deploy and run a Java Gradle application on Droplet 
- - java deployed
- - gradle deployed
- - scp of jar file to java user home/java/java-react-example.jar
- - changed ownership of jar file to user:group java:java
- - setup of firewall rules
- - run application as java
- -> x.x.x.x:7071
+ - [x] java deployed
+ - [x] gradle deployed
+ - [x] scp of jar file to java user home/java/java-react-example.jar
+ - [x] changed ownership of jar file to user:group java:java
+ - [x] setup of firewall rules
+ - [x] run application as java
+ - [x] Open a connection to https://x.x.x.x:7071
