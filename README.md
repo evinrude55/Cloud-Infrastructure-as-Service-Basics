@@ -1,13 +1,13 @@
 # Cloud-Infrastructure-as-Service-Basics
 ## DevOps - Techworld-with-nana
 
-## Demo Project:
+## Demo Project
 Create server and deploy application on DigitalOcean
 
-## Technologies used: 
+## Technologies used
  DigitalOcean, Linux, Java, Gradle
 
-## Project Description:
+## Project Description
  ### Setup and configure a server on DigitalOcean -> 174.138.86.84
  - set up of firewall my-first-droplet-firewall
 
